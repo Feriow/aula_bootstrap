@@ -1,2 +1,3 @@
 # aula_bootstrap
-Bootstrap training
+
+Bootstrap training exercises

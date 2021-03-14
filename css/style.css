@@ -1,0 +1,40 @@
+:root {
+  --bg-cor1: #3d3b8e;
+  --bg-cor2: #6883ba;
+  --bg-cor3: #e072a4;
+  --bg-cor4: #b0e298;
+  --font1: #f9f9f9;
+  --font2: #272323;
+}
+
+body {
+  font: 20px Arial, sans-serif;
+  color: var(--font1);
+}
+
+.navbar {
+  background-color: var(--bg-cor1);
+}
+
+.quem-somos {
+  background-color: var(--bg-cor2);
+}
+
+.margin {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.parceiros {
+  background-color: var(--bg-cor3);
+}
+
+.servicos {
+  background-color: var(--bg-cor4);
+  color: var(--font2);
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+}
