@@ -1,6 +1,6 @@
 # aula_bootstrap
 
-Bootstrap training exercises
+Bootstrap practice project
 
 ## Screenshot
 
